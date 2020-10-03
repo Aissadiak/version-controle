@@ -1,0 +1,14 @@
+ 
+    Terminal
+    A Terminal is a command line where you can go to type code to tell your computer what      to do.
+    
+        The Major Difference Between Git and git</h1>
+        Git is a Free and open source version control System.
+    While Github is a Website to host your repositories online.
+        Github is Use For:
+        
+            It lets you and others work together on projects from anywhere
+            Simplifies the process of working with other
+            Makes it easy to collaborate on projects.
+            Team members can work on files and easily merge their changes in with the   master branch of the project.
+        
